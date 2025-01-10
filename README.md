@@ -64,8 +64,7 @@ The Power BI dashboard is embedded into the web application. You can explore:
 - Detailed insights into economic growth over time.
 
 ### Dashboard URL
-🔗 [Click here to view the Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=your-report-id)  
-*(Replace with your actual Power BI report URL)*
+🔗 [Click here to view the Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=ee2c2917-0099-45b1-b5cf-ffd8054c3bb5&autoAuth=true&ctid=4ce8fa72-23e2-4b0c-b5e0-847fff441edd)
 
 ---
 
@@ -89,8 +88,8 @@ We welcome contributions! Please follow these steps:
 
 
 ## 🤝 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dileep-reddy-386321264/)
-- **GitHub**: [Your GitHub Profile](https://github.com/DileepReddy18)
+- **LinkedIn**: (https://www.linkedin.com/in/dileep-reddy-386321264/)
+- **GitHub**: (https://github.com/DileepReddy18)
 
 ---
 
